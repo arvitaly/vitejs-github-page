@@ -7,6 +7,5 @@ export default defineConfig({
   base: "/vitejs-github-page/",
   build: {
     outDir: "./docs",
-    emptyOutDir: true,
   },
 });
